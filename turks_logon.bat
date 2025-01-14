@@ -1,0 +1,1 @@
+curl -d "Hburg Turks has just successfully logged onto your computer." ntfy.sh/davis_computer_login
